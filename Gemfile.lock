@@ -351,6 +351,7 @@ DEPENDENCIES
   bootsnap
   bulma-rails (~> 1.0)
   capybara
+  dartsass-rails (~> 0.5.1)
   debug
   guard (~> 2.18, >= 2.18.0)
   guard-livereload (~> 2.5, >= 2.5.2)

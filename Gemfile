@@ -47,6 +47,7 @@ gem "bootsnap", require: false
 #custom gems
 gem 'bulma-rails', '~> 1.0'
 gem 'simple_form', '~> 5.3'
+gem "dartsass-rails", "~> 0.5.1"
 
 
 group :development, :test do
