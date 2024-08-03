@@ -45,7 +45,6 @@ gem "bootsnap", require: false
 # gem "image_processing", "~> 1.2"
 
 #custom gems
-gem "better_errors"
 gem 'bulma-rails', '~> 1.0'
 gem 'simple_form', '~> 5.3'
 
@@ -62,6 +61,7 @@ group :development do
   #custom
   gem 'guard', '~> 2.18', '>= 2.18.0'
   gem 'guard-livereload', '~> 2.5', '>= 2.5.2',require: false
+  gem "better_errors"
   
 end
 
